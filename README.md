@@ -1,0 +1,1 @@
+# CryptoTab-Hider
